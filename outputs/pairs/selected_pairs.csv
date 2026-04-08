@@ -1,0 +1,4 @@
+ticker_a,ticker_b,p_value,hedge_ratio,halflife
+XLP,XLU,0.041854,1.096471,38.25
+XLP,XLV,0.019943,0.817775,41.34
+XLB,XLV,0.011093,1.06981,42.01
