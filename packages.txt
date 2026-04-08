@@ -1,0 +1,7 @@
+# System-level apt packages for Streamlit Cloud (Ubuntu 22.04).
+# All Python dependencies in this project ship as pre-built wheels on PyPI
+# and do not require additional system libraries. This file is intentionally
+# minimal — Streamlit Cloud installs it via `apt-get install` before pip.
+#
+# If you extend this project with packages that link against system libs
+# (e.g. psycopg2 → libpq-dev, Pillow → libjpeg-dev), add them here.
